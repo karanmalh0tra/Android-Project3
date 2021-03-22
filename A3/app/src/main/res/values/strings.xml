@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">A3</string>
+    <string-array name="Titles">
+        <item>Modern Family</item>
+        <item>How I Met Your Mother</item>
+        <item>Dark</item>
+        <item>Schitt\'s Creek</item>
+        <item>Parks and Recreation</item>
+        <item>Peaky Blinders</item>
+        <item>Breaking Bad</item>
+        <item>Mad Men</item>
+        <item>The Wire</item>
+    </string-array>
+    <string-array name="TitlesURL">
+        <item>https://en.wikipedia.org/wiki/Modern_Family</item>
+        <item>https://en.wikipedia.org/wiki/How_I_Met_Your_Mother</item>
+        <item>https://en.wikipedia.org/wiki/Dark_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Schitt%27s_Creek</item>
+        <item>https://en.wikipedia.org/wiki/Parks_and_Recreation</item>
+        <item>https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Breaking_Bad</item>
+        <item>https://en.wikipedia.org/wiki/Mad_Men</item>
+        <item>https://en.wikipedia.org/wiki/The_Wire</item>
+    </string-array>
+    <integer-array name="Images">
+        <item>@drawable/modern_family</item>
+        <item>@drawable/how_i_met_your_mother</item>
+        <item>@drawable/dark</item>
+        <item>@drawable/schitts_creek</item>
+        <item>@drawable/parks_and_recreation</item>
+        <item>@drawable/peaky_blinders</item>
+        <item>@drawable/breaking_bad</item>
+        <item>@drawable/mad_men</item>
+        <item>@drawable/the_wire</item>
+    </integer-array>
+    <string name="PermissionDescription">KABOOM Permission</string>
+</resources>
