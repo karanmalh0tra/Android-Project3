@@ -2,6 +2,7 @@
 Android Project 3 as part of the CS-478 course taught at UIC.
 
 <h3>This is a project related to shifting between 3 applications in android.<h3>
+<h5> Required the knowledge of Fragments, Permissions and Broadcast Receivers <h5>
 
 <h4>Flow of the Project<h4>
 
